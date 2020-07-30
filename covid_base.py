@@ -10,6 +10,7 @@ from finta import TA
 from math import floor
 import matplotlib
 import matplotlib.pyplot as plt
+from matplotlib.pyplot import figure
 from scipy.optimize import curve_fit
 from datetime import datetime, timedelta
 from pathlib import Path
